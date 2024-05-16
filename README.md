@@ -1,19 +1,20 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un apasionado de la programación y el desarrollo de software.
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta del desarrollo de software con experiencia en Python, JavaScript y C.
 
 ## Acerca de mí
 
-- 🌱 Actualmente estoy aprendiendo [Tecnología o lenguaje que estés aprendiendo].
-- 💼 Estoy buscando oportunidades laborales como [Tu posición o área de interés].
-- 📫 Cómo contactarme: [Tu dirección de correo electrónico o redes sociales].
+- 🎓 Actualmente estudio en la Universidad Libre de Colombia.
+- 🌱 Estoy siempre aprendiendo y mejorando mis habilidades en desarrollo de software.
+- 💼 Estoy interesado en oportunidades laborales relacionadas con el desarrollo web y la ingeniería de software.
 
 ## Mis Proyectos
 
 Aquí tienes algunos de mis proyectos destacados:
 
-- [Proyecto 1](Enlace al proyecto 1): Breve descripción del proyecto.
-- [Proyecto 2](Enlace al proyecto 2): Breve descripción del proyecto.
+- [Proyecto Python](Enlace al proyecto): Descripción breve del proyecto en Python.
+- [Proyecto JavaScript](Enlace al proyecto): Descripción breve del proyecto en JavaScript.
+- [Proyecto C](Enlace al proyecto): Descripción breve del proyecto en C.
 
 ## Estadísticas de GitHub
 
