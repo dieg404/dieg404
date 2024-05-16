@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta del desarrollo de software con experiencia en Python, JavaScript y C.
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta del desarrollo de software con experiencia en ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) y ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white).
 
 ## Acerca de mí
 
