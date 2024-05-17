@@ -1,27 +1,30 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta del desarrollo de software con experiencia en ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) y ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white).
+## Sobre mí
+Mi nombre es [Tu Nombre] y soy estudiante de segundo semestre en la **Universidad Libre de Colombia**. Estoy apasionado por la tecnología y el desarrollo de software.
 
-## Acerca de mí
+## 🎓 Educación
+![Logo Universidad](URL_A_IMAGEN_UNIVERSIDAD)  
+**Universidad Libre de Colombia**  
+Bachiller en [Tu carrera], 2024
 
-- 🎓 Actualmente estudio en la Universidad Libre de Colombia.
-- 🌱 Estoy siempre aprendiendo y mejorando mis habilidades en desarrollo de software.
-- 💼 Estoy interesado en oportunidades laborales relacionadas con el desarrollo web y la ingeniería de software.
+## 💻 Habilidades Técnicas
+| Lenguaje | Logo |
+|----------|------|
+| Python   | ![Python](URL_A_IMAGEN_PYTHON) |
+| C        | ![C](URL_A_IMAGEN_C) |
+| JavaScript | ![JavaScript](URL_A_IMAGEN_JAVASCRIPT) |
+| HTML    | ![HTML](URL_A_IMAGEN_HTML) |
 
-## Mis Proyectos
+## 🌱 Actualmente estoy aprendiendo...
+Estoy expandiendo mis conocimientos en tecnologías web y explorando nuevos frameworks y bibliotecas en JavaScript.
 
-Aquí tienes algunos de mis proyectos destacados:
+## 📫 ¿Cómo contactarme?
+Puedes enviarme un correo a [tu-email@dominio.com](mailto:tu-email@dominio.com) o seguirme en [LinkedIn](URL_TU_LINKEDIN).
 
-- [Proyecto Python](Enlace al proyecto): Descripción breve del proyecto en Python.
-- [Proyecto JavaScript](Enlace al proyecto): Descripción breve del proyecto en JavaScript.
-- [Proyecto C](Enlace al proyecto): Descripción breve del proyecto en C.
+## 🚀 Mis proyectos
+Aquí puedes incluir enlaces o descripciones breves de algunos proyectos de los que estés particularmente orgulloso.
 
-## Estadísticas de GitHub
+---
 
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_NOMBRE_DE_USUARIO)
-
-## Contacto
-
-¡No dudes en contactarme!
-
-[Twitter](https://twitter.com/TU_USUARIO_DE_TWITTER) | [LinkedIn](https://www.linkedin.com/in/TU_PERFIL_DE_LINKEDIN/)
+### ¡Gracias por visitar mi perfil de GitHub!
