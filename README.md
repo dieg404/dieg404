@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## Sobre mí
-Mi nombre es [Tu Nombre] y soy estudiante de segundo semestre en la **Universidad Libre de Colombia**. Estoy apasionado por la tecnología y el desarrollo de software.
+Mi nombre es Diego y soy estudiante de segundo semestre en la **Universidad Libre de Colombia**. Estoy apasionado por la tecnología y el desarrollo de software.
 
 ## 🎓 Educación
 ![Logo Universidad](URL_A_IMAGEN_UNIVERSIDAD)  
